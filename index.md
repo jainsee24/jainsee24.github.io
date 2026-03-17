@@ -57,6 +57,16 @@ A talk on my research is available here: [YouTube](https://youtu.be/lT77jFuQMzE)
 - **[Dec 2015]** Secured State rank 2 and International rank 26 in International Mathematics Olympiad.
 - **[Aug 2013]** Became a UCMAS degree scholar, and secured 9th rank in UCMAS global competition.
 
+## Media Coverage
+
+- **[Mar 2026]** San Diego Union-Tribune — [UC San Diego PhD Student's Project Turns Research Papers Into Shareable Code](https://www.sandiegouniontribune.com/2026/03/16/uc-san-diego-ph-d-students-project-turns-research-papers-into-shareable-code/)
+- **[Oct 2023]** Chicago Maroon — [Featured in university newspaper](https://issuu.com/chicagomaroon/docs/100523_web) (Siebel Scholar coverage)
+- **[Fall 2023]** The Daily Illini — [Featured in Housing Guide](https://issuu.com/thedailyillini/docs/housing_guide_fall_2023_a80e817c7a949a)
+- **[Sep 2023]** BusinessWire — [Siebel Scholars Foundation Announces Class of 2024](https://www.businesswire.com/news/home/20230919861208/en/Siebel-Scholars-Foundation-Announces-Class-of-2024)
+- **[Sep 2023]** Siebel School of Computing, UIUC — [Five CS Students Named 2024 Siebel Scholars](https://siebelschool.illinois.edu/news/Five/CS/Students/2024/Siebel/Scholars)
+- **[Sep 2023]** @siebelschool on X — [Siebel Scholars announcement](https://x.com/siebelschool/status/1709284121082581230)
+- **[Sep 2021]** Times of India — [IIT Indore Using AI to Develop Network to Detect Fires in Melghat Tiger Reserve](https://timesofindia.indiatimes.com/city/nagpur/iit-indore-using-ai-to-develop-network-to-detect-fires-in-melghat-tiger-reserve/articleshow/85877519.cms)
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
