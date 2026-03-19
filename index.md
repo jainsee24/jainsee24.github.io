@@ -59,13 +59,72 @@ A talk on my research is available here: [YouTube](https://youtu.be/lT77jFuQMzE)
 
 ## Media Coverage
 
-- **[Mar 2026]** San Diego Union-Tribune — [UC San Diego PhD Student's Project Turns Research Papers Into Shareable Code](https://www.sandiegouniontribune.com/2026/03/16/uc-san-diego-ph-d-students-project-turns-research-papers-into-shareable-code/)
-- **[Oct 2023]** Chicago Maroon — [Featured in university newspaper](https://issuu.com/chicagomaroon/docs/100523_web) (Siebel Scholar coverage)
-- **[Fall 2023]** The Daily Illini — [Featured in Housing Guide](https://issuu.com/thedailyillini/docs/housing_guide_fall_2023_a80e817c7a949a)
-- **[Sep 2023]** BusinessWire — [Siebel Scholars Foundation Announces Class of 2024](https://www.businesswire.com/news/home/20230919861208/en/Siebel-Scholars-Foundation-Announces-Class-of-2024)
-- **[Sep 2023]** Siebel School of Computing, UIUC — [Five CS Students Named 2024 Siebel Scholars](https://siebelschool.illinois.edu/news/Five/CS/Students/2024/Siebel/Scholars)
-- **[Sep 2023]** @siebelschool on X — [Siebel Scholars announcement](https://x.com/siebelschool/status/1709284121082581230)
-- **[Sep 2021]** Times of India — [IIT Indore Using AI to Develop Network to Detect Fires in Melghat Tiger Reserve](https://timesofindia.indiatimes.com/city/nagpur/iit-indore-using-ai-to-develop-network-to-detect-fires-in-melghat-tiger-reserve/articleshow/85877519.cms)
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-top: 1rem;">
+
+<a href="https://www.sandiegouniontribune.com/2026/03/16/uc-san-diego-ph-d-students-project-turns-research-papers-into-shareable-code/" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+<img src="./media/tribune.png" alt="San Diego Union-Tribune" style="width: 100%; height: 160px; object-fit: cover;">
+<div style="padding: 12px;">
+<strong style="font-size: 0.85rem; color: #555;">Mar 2026</strong><br>
+<strong>San Diego Union-Tribune</strong><br>
+<span style="font-size: 0.9rem;">UC San Diego PhD Student's Project Turns Research Papers Into Shareable Code</span>
+</div>
+</a>
+
+<a href="https://issuu.com/chicagomaroon/docs/100523_web" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+<img src="./media/maroon.png" alt="Chicago Maroon" style="width: 100%; height: 160px; object-fit: cover;">
+<div style="padding: 12px;">
+<strong style="font-size: 0.85rem; color: #555;">Oct 2023</strong><br>
+<strong>Chicago Maroon</strong><br>
+<span style="font-size: 0.9rem;">Featured in university newspaper (Siebel Scholar coverage)</span>
+</div>
+</a>
+
+<a href="https://issuu.com/thedailyillini/docs/housing_guide_fall_2023_a80e817c7a949a" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+<img src="./media/thedailyillini.png" alt="The Daily Illini" style="width: 100%; height: 160px; object-fit: cover;">
+<div style="padding: 12px;">
+<strong style="font-size: 0.85rem; color: #555;">Fall 2023</strong><br>
+<strong>The Daily Illini</strong><br>
+<span style="font-size: 0.9rem;">Featured in Housing Guide</span>
+</div>
+</a>
+
+<a href="https://www.businesswire.com/news/home/20230919861208/en/Siebel-Scholars-Foundation-Announces-Class-of-2024" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+<img src="./media/businesswire.png" alt="BusinessWire" style="width: 100%; height: 160px; object-fit: cover;">
+<div style="padding: 12px;">
+<strong style="font-size: 0.85rem; color: #555;">Sep 2023</strong><br>
+<strong>BusinessWire</strong><br>
+<span style="font-size: 0.9rem;">Siebel Scholars Foundation Announces Class of 2024</span>
+</div>
+</a>
+
+<a href="https://siebelschool.illinois.edu/news/Five/CS/Students/2024/Siebel/Scholars" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+<img src="./media/siebelscholarcs.jpg" alt="Siebel School of Computing" style="width: 100%; height: 160px; object-fit: cover;">
+<div style="padding: 12px;">
+<strong style="font-size: 0.85rem; color: #555;">Sep 2023</strong><br>
+<strong>Siebel School of Computing, UIUC</strong><br>
+<span style="font-size: 0.9rem;">Five CS Students Named 2024 Siebel Scholars</span>
+</div>
+</a>
+
+<a href="https://x.com/siebelschool/status/1709284121082581230" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+<img src="./media/twitter.png" alt="@siebelschool on X" style="width: 100%; height: 160px; object-fit: cover;">
+<div style="padding: 12px;">
+<strong style="font-size: 0.85rem; color: #555;">Sep 2023</strong><br>
+<strong>@siebelschool on X</strong><br>
+<span style="font-size: 0.9rem;">Siebel Scholars announcement</span>
+</div>
+</a>
+
+<a href="https://timesofindia.indiatimes.com/city/nagpur/iit-indore-using-ai-to-develop-network-to-detect-fires-in-melghat-tiger-reserve/articleshow/85877519.cms" target="_blank" style="text-decoration: none; color: inherit; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+<img src="./media/timeosinfia.png" alt="Times of India" style="width: 100%; height: 160px; object-fit: cover;">
+<div style="padding: 12px;">
+<strong style="font-size: 0.85rem; color: #555;">Sep 2021</strong><br>
+<strong>Times of India</strong><br>
+<span style="font-size: 0.9rem;">IIT Indore Using AI to Develop Network to Detect Fires in Melghat Tiger Reserve</span>
+</div>
+</a>
+
+</div>
 
 {% include_relative _includes/publications.md %}
 
